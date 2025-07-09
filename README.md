@@ -18,6 +18,12 @@ CineRecommend is a modern, feature-rich web application designed to help users d
 
 ---
 
+## 📸 Application Screenshot
+
+![CineRecommend Home Page](assets/cineRecommend.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
